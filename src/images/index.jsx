@@ -1,0 +1,16 @@
+export { default as Publication } from './publication.png';
+export { default as Document } from './document.png';
+export { default as Hospital } from './hospital.png';
+export { default as Pandemic } from './pandemic.png';
+export { default as Promed } from './promed.png';
+export { default as Medisys } from './medisys-white.png';
+export { default as pohaLogo } from './poha.png';
+export { default as nihLogo } from './nihLogo.png';
+export { default as districtLogo } from '../images/icons/districtBlack64.png';
+export { default as hospitalLogo } from './hospital.png';
+export { default as locationLogo } from './location.png';
+export { default as publicationLogo } from './publication.png';
+export { default as adrsLogo } from '../images/adrs.png';
+export { default as covidLogo } from '../images/pandemic.png';
+export { default as dhis2Logo } from '../images/dhis2.png';
+export { default as documentLogo } from '../images/document.png';

@@ -1,0 +1,12 @@
+export { default as districtBlack } from './districtBlack.png';
+export { default as ep } from './ep.png';
+export { default as epLogo } from './epLogo.png';
+export { default as gopGreen } from './gopGreen.png';
+export { default as gopGrey } from './gopGrey.png';
+export { default as nihBlue } from './nihBlue.png';
+export { default as pspu } from './pspu.png';
+export { default as punjab } from './gopunjab.png';
+export { default as uhs } from './uhs.png';
+export { default as uhsGrey } from './uhsGrey.png';
+export { default as uvas } from './uvas.png';
+export { default as who } from './who.png';

@@ -1,0 +1,85 @@
+{
+  "name": "OneHealthDashboard",
+  "homepage": "https://onehealth.nihtech.com",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mongodb-js/charts-embed-dom": "^2.3.1",
+    "@mui/lab": "^5.0.0-alpha.120",
+    "@mui/material": "^5.11.9",
+    "@mui/styles": "^5.11.9",
+    "@react-google-maps/api": "^2.18.1",
+    "@syncfusion/ej2-base": "^20.4.51",
+    "@syncfusion/ej2-buttons": "^20.4.53",
+    "@syncfusion/ej2-navigations": "^20.4.53",
+    "@syncfusion/ej2-notifications": "^20.4.48",
+    "@syncfusion/ej2-react-buttons": "^20.2.43",
+    "@syncfusion/ej2-react-charts": "^19.4.54",
+    "@syncfusion/ej2-react-dropdowns": "^19.4.52",
+    "@syncfusion/ej2-react-grids": "^19.4.56",
+    "@syncfusion/ej2-react-inputs": "^19.4.52",
+    "@syncfusion/ej2-react-navigations": "^20.2.38",
+    "@syncfusion/ej2-react-popups": "^19.4.52",
+    "@syncfusion/ej2-react-richtexteditor": "^19.4.50",
+    "@syncfusion/ej2-react-schedule": "^19.4.50",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "ajv": "^8.12.0",
+    "autoprefixer": "^10.4.13",
+    "axios": "^0.27.2",
+    "base-64": "^1.0.0",
+    "browserify-zlib": "^0.2.0",
+    "cors": "^2.8.5",
+    "crypto-browserify": "^3.12.0",
+    "express": "^4.18.2",
+    "google-maps-react": "^2.0.6",
+    "leaflet": "^1.9.3",
+    "material-table": "^1.63.0",
+    "material-ui": "^0.15.0",
+    "postcss": "^8.4.21",
+    "react": "^18.2.0",
+    "react-dev-utils": "^12.0.1",
+    "react-dom": "^17.0.2",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^4.7.1",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "^5.0.1",
+    "recharts": "^2.4.3",
+    "tailwind": "^4.0.0",
+    "url": "^0.11.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
